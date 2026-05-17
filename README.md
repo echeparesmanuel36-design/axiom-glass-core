@@ -37,9 +37,9 @@ where:
 
 ### ​💻 BARE-METAL RUST IMPLEMENTATION
 
-```text
 The following raw implementation handles direct hardware register access via volatile memory writes, bypassing heap allocations (#![no_std]) to prevent non-deterministic garbage collection latencies.
-```
+
+
 ```text 
 #![no_std]
 use core::ptr::NonNull;
