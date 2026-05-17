@@ -3,7 +3,7 @@
 ## 📱 OVERVIEW
 The **Axiom Glass Core** paradigm defines the structural and software framework required to operate a 100% transparent mobile computing device under a deterministic latency ceiling **T_floor = 2.15 ms**. Traditional mobile operating systems rely on high-level garbage-collected runtimes (e.g., Android/Java JVM) that introduce non-deterministic frame-drops, making real-time transparency and contextual background contrast alignment visually non-viable.
 
-This repository outlines the specifications for sub-millisecond synchronous rendering, direct TOLED (Transparent OLED) physical address mapping, and zero-heap peripheral sensor loops written in bare-metal Rust.
+This repository outlines the specifications for sub-millisecond synchronous rendering, direct **TOLED (Transparent OLED)** physical address mapping, and zero-heap peripheral sensor loops written in bare-metal Rust.
 
 ---
 
