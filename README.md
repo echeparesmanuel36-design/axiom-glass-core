@@ -21,7 +21,7 @@ Unlike standard displays, a Transparent Organic Light Emitting Diode (TOLED) mat
 ### 2. Perimetric Hardware Component Shifting
  To maintain a completely transparent central surface, all opaque silicon structures (Lithium-Titanate Battery arrays, CPU/GPU dies, RF Antennas, and Camera sensors) are shifted into a reinforced 1.2mm Titanium Perimetric Chassis surrounding the glass.
 
-### ​🔬 THE CONTRAST ALIGNMENT EQUATION
+## ​🔬 THE CONTRAST ALIGNMENT EQUATION
 
 Because true black in an OLED panel represents a completely turned-off (and therefore transparent) pixel, dark user interfaces become invisible against bright backgrounds. To solve this, the Axiom Glass Core introduces a continuous hardware loop that captures the rear environmental lux levels and dynamically calculates inverted alpha-blending vectors:
 
@@ -41,7 +41,7 @@ Rear environment background sensor input mapped via continuous DMA channels (Dir
  Dynamic opacity coefficient calculated within the 0.45ms acquisition window.
 
 
-### ​💻 BARE-METAL RUST IMPLEMENTATION
+## ​💻 BARE-METAL RUST IMPLEMENTATION
 
 The following raw implementation handles direct hardware register access via volatile memory writes, bypassing heap allocations (#![no_std]) to prevent non-deterministic garbage collection latencies.
 
