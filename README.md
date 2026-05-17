@@ -82,7 +82,7 @@ impl GlassDisplayDriver {
 }
 ```
 
-### ​🛡️ SYSTEM INTELLECTUAL PROPERTY
+## ​🛡️ SYSTEM INTELLECTUAL PROPERTY
 
 ​Chief Architect: 
 **Manuel Echepares**
