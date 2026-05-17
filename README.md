@@ -28,9 +28,8 @@ Because true black in an OLED panel represents a completely turned-off (and ther
 
 ## Lpixel = a • Cui + (1 - a) B env
 
-
+where:
 ```text
-Where:
 ​C_{ui}: Nominal User Interface color matrix.
 ​B_{env}: Rear environment background sensor input mapped via continuous DMA channels (Direct Memory Access).
 ​\alpha: Dynamic opacity coefficient calculated within the 0.45ms acquisition window.
