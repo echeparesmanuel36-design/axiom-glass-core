@@ -77,10 +77,12 @@ impl GlassDisplayDriver {
 ```
 
 ### ​🛡️ SYSTEM INTELLECTUAL PROPERTY
-```text
-​Chief Architect: Manuel Echepares
-​Corporate Entity: Axiom Systems
-​Verification Profile: echepares269651
-​Production Context: manuelecheparesvalderrama@gmail.com
-​The Code belongs to the Engineer. The Architecture controls the Machine. The Glass is just your viewport.
+
+​Chief Architect: **Manuel Echepares**
+​Corporate Entity: **Axiom Systems**
+​Verification Profile X: **echepares269651**
+​Production Context: **manuelecheparesvalderrama@gmail.com**
+
+
+### ​The Code belongs to the Engineer. The Architecture controls the Machine. The Glass is just your viewport.
 ```
