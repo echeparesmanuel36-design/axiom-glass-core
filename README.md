@@ -19,10 +19,8 @@ Unlike standard displays, a Transparent Organic Light Emitting Diode (TOLED) mat
 ```
 
 ### 2. Perimetric Hardware Component Shifting
+ To maintain a completely transparent central surface, all opaque silicon structures (Lithium-Titanate Battery arrays, CPU/GPU dies, RF Antennas, and Camera sensors) are shifted into a reinforced 1.2mm Titanium Perimetric Chassis surrounding the glass.
 
-```text 
-To maintain a completely transparent central surface, all opaque silicon structures (Lithium-Titanate Battery arrays, CPU/GPU dies, RF Antennas, and Camera sensors) are shifted into a reinforced 1.2mm Titanium Perimetric Chassis surrounding the glass.
-```
 ### ​🔬 THE CONTRAST ALIGNMENT EQUATION
 
 ```text
