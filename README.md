@@ -24,10 +24,10 @@ Unlike standard displays, a Transparent Organic Light Emitting Diode (TOLED) mat
 ### ​🔬 THE CONTRAST ALIGNMENT EQUATION
 
 Because true black in an OLED panel represents a completely turned-off (and therefore transparent) pixel, dark user interfaces become invisible against bright backgrounds. To solve this, the Axiom Glass Core introduces a continuous hardware loop that captures the rear environmental lux levels and dynamically calculates inverted alpha-blending vectors:
-```
-``text
+
+
 ## Lpixel = a • Cui + (1 - a) B env
-```
+
 
 ```text
 Where:
